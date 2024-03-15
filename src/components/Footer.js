@@ -37,7 +37,7 @@ const Footer = () => {
             <Link to="https://github.com/PremSinghUk"> <FaGithub size={20} style={{ color: "#fff", marginRight: "1rem" }} /></Link>
 
             <Link to="https://twitter.com/pskvssec2"><FaTwitter size={20} style={{ color: "#fff", marginRight: "1rem" }} /> </Link>
-            <Link to="https://www.linkedin.com/in/prem-singh-ad/"> <FaLinkedin size={20} style={{ color: "#fff", marginRight: "1rem" }} /> </Link>
+            <Link to="https://www.linkedin.com/in/prem-singh-ad/" target="_main"> <FaLinkedin size={20} style={{ color: "#fff", marginRight: "1rem" }} /> </Link>
 
 
 
